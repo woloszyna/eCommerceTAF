@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7da4d21-796d-4e7e-9621-7e273e707cab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcEZIJa774Au1YlWLuqQPWyzhk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.LandingPage">
+    <configuration name="LandinPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="eCommerce-page-objects" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LandinPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="eCommerce-regression-tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LandingPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenPage.openPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="eCommerce-regression-tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenPage" />
+      <option name="METHOD_NAME" value="openPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LandingPage" />
+        <item itemvalue="TestNG.OpenPage.openPage" />
+        <item itemvalue="TestNG.LandinPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7da4d21-796d-4e7e-9621-7e273e707cab" name="Default Changelist" comment="" />
+      <created>1583233535709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583233535709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1583250243287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583250243287" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1583250243286">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583250243286" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1583250243285">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583250243285" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1583250243287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583250243287" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1583250207551">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583250207551" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1583250207550">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583250207550" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1583250207549">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583250207549" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1583250207550">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583250207550" />
+    <state x="308" y="201" key="IDE.errors.dialog" timestamp="1583234093606">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="201" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1583234093606" />
+    <state x="376" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1584175853464">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584175853464" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583416161787" />
+    <state x="114" y="150" key="new project wizard" timestamp="1583233817324">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="114" y="150" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583233817324" />
+  </component>
+</project>

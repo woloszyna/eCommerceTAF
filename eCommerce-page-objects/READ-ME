@@ -1,0 +1,2 @@
+The page-objects module was created as a part of the Project Framework to hold all components and locators of each webpage.
+These components will then be used in test scripts
