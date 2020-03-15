@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7da4d21-796d-4e7e-9621-7e273e707cab" name="Default Changelist" comment="">
+    <list default="true" id="a7da4d21-796d-4e7e-9621-7e273e707cab" name="Default Changelist" comment="Adding content to the TEST1 file on windows machine">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TEST1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -51,6 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="TestNG.LandingPage">
     <configuration name="LandinPage" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -108,20 +109,28 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding content to the TEST1 file on windows machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding content to the TEST1 file on windows machine" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584268308012">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1584268308012" />
-    <state x="334" y="0" width="687" height="679" key="CommitChangelistDialog2" timestamp="1584273760250">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="297" y="0" width="687" height="679" key="CommitChangelistDialog2" timestamp="1584274373145">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" width="687" height="679" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584273030355" />
+    <state x="297" y="0" width="687" height="679" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584274373145" />
     <state x="334" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584273760250" />
     <state x="122" y="50" key="DiffContextDialog" timestamp="1584272995712">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="122" y="50" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1584272995712" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1584274213362">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584274213362" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1583250243287">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -158,6 +167,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="201" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1583234093606" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1584274296870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584274296870" />
     <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584268367320">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -168,6 +181,10 @@
     <state x="334" y="202" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584272655729" />
     <state x="376" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584175853464" />
     <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583416161787" />
+    <state x="354" y="144" key="git4idea.merge.GitPullDialog" timestamp="1584274201169">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="354" y="144" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1584274201169" />
     <state x="114" y="150" key="new project wizard" timestamp="1583233817324">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
