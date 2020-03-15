@@ -26,6 +26,7 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="Albert Woloszyn WIN" />
+        <option value="Albert  Woloszyn MAC" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,10 +113,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1584268308012" />
-    <state x="297" y="0" width="687" height="679" key="CommitChangelistDialog2" timestamp="1584273030355">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="334" y="0" width="687" height="679" key="CommitChangelistDialog2" timestamp="1584273760250">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="297" y="0" width="687" height="679" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584273030355" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584273760250" />
     <state x="122" y="50" key="DiffContextDialog" timestamp="1584272995712">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
