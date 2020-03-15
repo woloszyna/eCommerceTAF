@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7da4d21-796d-4e7e-9621-7e273e707cab" name="Default Changelist" comment="" />
+    <list default="true" id="a7da4d21-796d-4e7e-9621-7e273e707cab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="eCommerceTAF" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -13,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,6 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YcEZIJa774Au1YlWLuqQPWyzhk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="TestNG.LandingPage">
     <configuration name="LandinPage" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -87,6 +102,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584268308012">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1584268308012" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1583250243287">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -123,6 +142,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="201" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1583234093606" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584268367320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584268367320" />
     <state x="376" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1584175853464">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
